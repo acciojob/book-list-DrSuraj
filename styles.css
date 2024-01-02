@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+/* styles.css */
+.table {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.delete {
+    cursor: pointer;
+    color: red;
+}
